@@ -3,7 +3,6 @@ using System.Globalization;
 using System.Text;
 using CsvHelper;
 using CsvHelper.Configuration;
-using CsvHelper.Configuration.Attributes;
 using Spectre.Console;
 using Spectre.Console.Cli;
 
